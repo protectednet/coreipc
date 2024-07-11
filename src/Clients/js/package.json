@@ -103,7 +103,7 @@
         "webpack-cli": "^5.0.0",
         "webpack-preprocessor-loader": "^1.2.0",
         "webpack-shell-plugin-next": "^2.3.1",
-        "ws": "^8.11.0"
+        "ws": "^8.17.1"
     },
     "dependencies": {
         "reflect-metadata": "^0.1.13",
